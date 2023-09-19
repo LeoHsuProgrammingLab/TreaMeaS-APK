@@ -1,6 +1,6 @@
 # TreaMeaS-APK
 # TreeMeaS (Tree Measurement Sampling Tool)
-Android-Based APP for Horizontal Point Sampling (HPS), Borderline Factor, and Upper-Stem Diameter calculation.
+Android-Based APP for Horizontal Point Sampling (HPS), Borderline Factor, Upper-Stem Diameter Measurement, and Height Measurement.
 
 ## Objectives
 1. HPS: Pitch-calibrated angle gauge APP.
