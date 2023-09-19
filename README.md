@@ -21,3 +21,5 @@ Android-Based APP for Horizontal Point Sampling (HPS), Borderline Factor, Upper-
 1. Android APP.
 2. IMU in mobile phone for orientation.
 3. Develop the pitch calibration mathematical formula for upper-stem diameter measurement.
+
+Copyright © 2023 Tzeng Yih Lam & Chih-Chuan Hsu. All rights reserved.
